@@ -1,0 +1,8 @@
+name: "PoppyHats"
+description: "Summon customizable particles when right-clicking other players!"
+author: TurtleException
+website: "https://github.com/TurtleException/PoppyHats"
+
+main: de.eldritch.spigot.poppy_hats.PoppyHats
+version: ${project.version}
+api-version: 1.18
